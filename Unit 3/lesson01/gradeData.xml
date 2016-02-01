@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<gradedata>
+    <student id="0">
+        <name>Sean Morrow</name>
+        <phone>902 456 1245</phone>
+        <grades>
+            <grade>90</grade>
+            <grade>89</grade>
+            <grade>88</grade>
+            <grade>87</grade>
+            <grade>86</grade>            
+        </grades>
+    </student>
+
+    <student id="2">
+        <name>John Smith</name>
+        <phone>902 111 1111</phone>
+        <grades>
+            <grade>60</grade>
+            <grade>61</grade>
+            <grade>62</grade>
+            <grade>63</grade>
+            <grade>64</grade>            
+        </grades>
+    </student>
+
+    <student id="3">
+        <name>Jerry McDonald</name>
+        <phone>902 222 2222</phone>
+        <grades>
+            <grade>50</grade>
+            <grade>49</grade>
+            <grade>48</grade>
+            <grade>47</grade>
+            <grade>46</grade>            
+        </grades>
+    </student>
+
+    <student id="4">
+        <name>Samantha McCurdy</name>
+        <phone>416 333 3333</phone>
+        <grades>
+            <grade>55</grade>
+            <grade>54</grade>
+            <grade>53</grade>
+            <grade>52</grade>
+            <grade>51</grade>            
+        </grades>
+    </student>
+
+    <student id="5">
+        <name>Sam Lennox</name>
+        <phone>666 666 6666</phone>
+        <grades>
+            <grade>70</grade>
+            <grade>71</grade>
+            <grade>72</grade>
+            <grade>73</grade>
+            <grade>74</grade>            
+        </grades>
+    </student>
+</gradedata>
