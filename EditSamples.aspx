@@ -143,7 +143,7 @@
 
 
                             // add the image to the database
-                            sample.addSample(Server.HtmlEncode(txtSampleNameInput.Text),selectedPage,Server.HtmlEncode(txtDescInput.Text),Server.MapPath("images/") + altFilename,Server.HtmlEncode(txtDownloadSource.Text));
+                            sample.addSample(Server.HtmlEncode(txtSampleNameInput.Text),selectedPage,Server.HtmlEncode(txtDescInput.Text),"images/" + altFilename,Server.HtmlEncode(txtDownloadSource.Text));
 
                             // ready to save file!!!
                             upFile.PostedFile.SaveAs( Server.MapPath("images/") + altFilename);
