@@ -1,0 +1,14 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+	margin: 10px;
+	padding: 0px;
+	border-style: none;
+	background: #4C7D7E;
+	color: #FDD017;	
+	font-family: verdana,arial,helvetica,sans-serif;
+	font-size: 11px;
+    cursor:default;
+}
