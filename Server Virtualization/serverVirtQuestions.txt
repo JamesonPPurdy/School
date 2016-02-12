@@ -1,0 +1,25 @@
+Core Parking: a state of sleep for a CPU to save power.
+
+Advantages of resource pools: Flexible organization, sharing within pools, seperation of resources from hardware.
+
+Software in the virtual machine that improves integration between host server and VM.
+
+One of the advantages is better performance.
+
+Cloning a VM is making a copy of a VM that can use the same virtual disks
+
+Export the VM and then import it using the copy option.
+
+SNapshots are useful for trying something you are unsure about, no risks as you can revert to a snapshot.
+
+They create a avhd file as opposed to the usual vhd.
+
+No you can't.
+
+right click on the VM and click checkpoint.
+
+A checkpoint is just a snapshot by a different name.
+
+You revert back to the snapshot.
+
+Putting together the differences in the snapshots.
