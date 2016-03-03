@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tap the Button</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_highscores">HighscoresActivity</string>
+    <string name="timeUntil">Seconds left!</string>
+    <string name="timeUp">Times Up!</string>
+    <string name="instruct">Enter your name and click submit to enter the highscores!</string>
+    <string name="name">Enter Name</string>
+</resources>
